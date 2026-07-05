@@ -19,9 +19,8 @@ Designed a discrete BJT audio amplifier from a fixed 12 V single supply, targeti
 
 ---
 
-## 🖼️ Simulation: Schematic & Output Waveform
+##  Simulation: Schematic & Output Waveform
 
-![LTspice schematic and transient output waveform](simulation-schematic-and-waveform.png)
 
 Two-stage LTspice schematic (Common Emitter stage Q1 + Emitter Follower buffer Q2 driving an 8 Ω load) alongside the transient simulation output — a clean, undistorted waveform confirming signal integrity is preserved across the load.
 
